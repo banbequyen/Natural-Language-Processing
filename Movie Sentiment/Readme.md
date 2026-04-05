@@ -6,4 +6,7 @@ The IMDB dataset contains 50,000 records of English sentences. The sentences are
 
 ![alt text](image.png)
 
-Simple neural network models include single-layer networks, convolutional networks, LSTMs, convolutional networks combined with LSTMs, BLSTMs, and transformers.
+The data is split 80:20 for training and evaluation.
+
+Simple neural network models include single-layer networks, convolutional networks, LSTMs, convolutional networks combined with LSTMs, BLSTMs, and transformers. The models were trained with the same parameters.
+The models use loss and accuracy functions for evaluation.
